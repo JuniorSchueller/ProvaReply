@@ -26,3 +26,10 @@ javascript:(function(){const style=document.createElement('style');style.textCon
 - Escreva "**javascript:**" e cole o script;
 - Pressione `ENTER`;
 - Siga as instruções ;)
+
+# 📄 Licença
+**MIT License**
+
+# ✉️ Contato
+**Se você precisar entrar em contato sobre qualquer tópico, envie um e-mail para `juniorschueller.br@gmail.com` ou por Discord `juniorschueller`.**
+**Mensagens aleatórias não serão respondidas.**
